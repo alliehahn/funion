@@ -1,0 +1,22 @@
+body {
+    background-color: #C9B6CB;
+} 
+
+.title {
+    font-family: 'Song Myung', serif;
+    color: bisque;
+}
+.onionpic {
+    height: 50px;
+    width: 50px;
+}
+
+.main {
+    background-color: white;
+}
+
+.rowopening {
+    text-align: center;
+    font-family: 'Song Myung', serif;
+    padding: 5px;
+}
